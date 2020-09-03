@@ -1,0 +1,8 @@
+git init :creating igt
+git add: add a changes
+git commit -m "message": save changes
+git log and git log --a :viewing logs
+git status: for viewing status
+git branch "name":creating new branch
+git checkout "branch_ name":for choosing branch
+git stash:remv the modeified file
